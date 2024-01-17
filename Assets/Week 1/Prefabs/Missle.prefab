@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7660245519526189400}
   - component: {fileID: 6805811280166134977}
   - component: {fileID: 4495656621831827946}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Missle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -97,3 +97,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90bb3bf2cb2b27043ae5d20f69381957, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
